@@ -1,0 +1,9 @@
+img {
+    width: 100vw;
+    max-width: 800px;
+    margin: 1em auto;
+}
+body {
+    background-color: midnightblue;
+    color: white;
+}
